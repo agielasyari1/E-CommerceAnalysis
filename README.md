@@ -35,5 +35,3 @@ Proyek ini bertujuan untuk melakukan analisis data pada dataset E-Commerce Publi
     cd E-CommerceAnalysis/streamlit/
     streamlit run main.py
     ```
-Atau bisa dengan kunjungi website ini [Project Data Analytics](https://data-analytics-project.streamlit.app/)
-
